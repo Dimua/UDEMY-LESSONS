@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98775d9f-fed0-43fe-b816-31173052b870" name="Default Changelist" comment="">
+    <list default="true" id="98775d9f-fed0-43fe-b816-31173052b870" name="Default Changelist" comment="add Udemy(24)object.html">
+      <change afterPath="$PROJECT_DIR$/project/css/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/icons/Logotype.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/icons/Star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/icons/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/icons/trash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/content_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/content_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/content_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/mars.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/sass/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy(15)doWhile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy(15)doWhile.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +63,9 @@
       <updated>1610790085851</updated>
       <workItem from="1610790087354" duration="20335000" />
       <workItem from="1610902387509" duration="3856000" />
+      <workItem from="1612296408618" duration="659000" />
+      <workItem from="1612891663947" duration="247000" />
+      <workItem from="1620589744039" duration="334000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1610792552835</created>
@@ -86,10 +101,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="add commit 2 (Udemy_15)" />
     <MESSAGE value="update commit 2 (Udemy_15)" />
-    <option name="LAST_COMMIT_MESSAGE" value="update commit 2 (Udemy_15)" />
+    <MESSAGE value="add Udemy(24)object.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Udemy(24)object.html" />
   </component>
 </project>
